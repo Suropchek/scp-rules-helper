@@ -1,0 +1,41 @@
+{
+  "version": 1,
+  "servers": [
+    {
+      "id": "norules",
+      "name": "NORULES",
+      "icon": "",
+      "color": "#f2b63c",
+      "description": "Шаблон правил от SurokSCP",
+      "rules": "https://docs.google.com/document/d/1JcLRNLsWCsMRb6bqYRpelY4qZ1JFnZ70fdStsIwpQ14/edit?usp=sharing",
+      "adminRules": ""
+    },
+    {
+      "id": "orange",
+      "name": "Orange server",
+      "icon": "O",
+      "color": "#ff8a1f",
+      "description": "Medium RP",
+      "rules": "https://docs.google.com/document/d/1Dj7X5o_fnjEz8JWXaTwZKqqruroIpcA3QJfcPJD0DLM/edit?usp=sharing",
+      "adminRules": ""
+    },
+    {
+      "id": "fibich",
+      "name": "ФИБИЧ HARD RP",
+      "icon": "Ф",
+      "color": "#e5484d",
+      "description": "Hard RP",
+      "rules": "https://docs.google.com/document/d/1k0uru-0QxE7_6eV9hTQf6xYirESDzLWto9-23Pgeg2A/edit?usp=sharing",
+      "adminRules": ""
+    },
+    {
+      "id": "ubezhishe",
+      "name": "SCP Убежище",
+      "icon": "У",
+      "color": "#2bb3a3",
+      "description": "Classic",
+      "rules": "https://docs.google.com/document/d/1nu3gHReMLtC81gkghUoqViZakJTaPHI8k0cbM1yUwhI/edit?usp=sharing",
+      "adminRules": ""
+    }
+  ]
+}
