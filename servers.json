@@ -36,6 +36,15 @@
       "description": "Classic",
       "rules": "https://docs.google.com/document/d/1nu3gHReMLtC81gkghUoqViZakJTaPHI8k0cbM1yUwhI/edit?usp=sharing",
       "adminRules": ""
+    },
+    {
+      "id": "novyi",
+      "name": "Название",
+      "icon": "Н",
+      "color": "#5b9cff",
+      "description": "Кратко о сервере",
+      "rules": "https://docs.google.com/document/d/1JcLRNLsWCsMRb6bqYRpelY4qZ1JFnZ70fdStsIwpQ14/edit?usp=sharing",
+      "adminRules": ""
     }
   ]
 }
